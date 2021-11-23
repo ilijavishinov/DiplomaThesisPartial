@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KA15
+"Bearing designation(dimension series, bore code)",,6203,KA15
+Suffix,,,KA15
+Diameter of inner raceway,mm,24.00,KA15
+Diameter of outer raceway,mm,33.10,KA15
+Pitch circle diameter,mm,28.55,KA15
+Number of rolling elements,pc.,8,KA15
+Rolling element diameter,mm,6.75,KA15
+Length of rolling element,mm,6.75,KA15
+Nominal pressure angle,°,0,KA15
+Static load rating,N,4750,KA15
+Dynamic load rating,N,9500,KA15
+Speed limit,min-1,12000,KA15
+Manufacturer,,FAG,KA15
+Bearing code,,KA15,KA15
+Sample number,,13-04,KA15
+Installation site,,04,KA15
+Installation type (system type),,bearing damage test bench (KAt),KA15
+Operator,,"Chair of design and Drive Technology, Paderborn",KA15
+Number of load cycles,cycles,1189000,KA15
+Lifetime,h:min,6:01,KA15
+Load,N,3800,KA15
+Dynamic equivalent load,N,,KA15
+Rotational speed,min-1,2900,KA15
+Load direction,°,0,KA15
+Comment,,n/a,KA15

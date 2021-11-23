@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KA22
+"Bearing designation(dimension series, bore code)",,6203,KA22
+Suffix,,,KA22
+Diameter of inner raceway,mm,n/a,KA22
+Diameter of outer raceway,mm,n/a,KA22
+Pitch circle diameter,mm,29.05,KA22
+Number of rolling elements,pc.,8,KA22
+Rolling element diameter,mm,6.75,KA22
+Length of rolling element,mm,6.75,KA22
+Nominal pressure angle,°,0,KA22
+Static load rating,N,n/a,KA22
+Dynamic load rating,N,n/a,KA22
+Speed limit,min-1,n/a,KA22
+Manufacturer,,IBU / IBB,KA22
+Bearing code,,KA22,KA22
+Sample number,,19-01,KA22
+Installation site,,01,KA22
+Installation type (system type),,bearing damage test bench (KAt),KA22
+Operator,,"Chair of design and Drive Technology, Paderborn",KA22
+Number of load cycles,cycles,2531700,KA22
+Lifetime,h:min,14:01,KA22
+Load,N,3000,KA22
+Dynamic equivalent load,N,,KA22
+Rotational speed,min-1,2900,KA22
+Load direction,°,0,KA22
+Comment,,n/a,KA22

@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,K005
+"Bearing designation(dimension series, bore code)",,6203,K005
+Suffix,,,K005
+Diameter of inner raceway,mm,n/a,K005
+Diameter of outer raceway,mm,n/a,K005
+Pitch circle diameter,mm,29.05,K005
+Number of rolling elements,pc.,8,K005
+Rolling element diameter,mm,6.75,K005
+Length of rolling element,mm,6.75,K005
+Nominal pressure angle,°,0,K005
+Static load rating,N,n/a,K005
+Dynamic load rating,N,n/a,K005
+Speed limit,min-1,n/a,K005
+Manufacturer,,IBU,K005
+Bearing code,,K005,K005
+Sample number,,,K005
+Installation site,,,K005
+Installation type (system type),,,K005
+Operator,,"Chair of design and Drive Technology, Paderborn",K005
+Number of load cycles,cycles,,K005
+Lifetime,h,10,K005
+Load,N,3000,K005
+Dynamic equivalent load,N,,K005
+Rotational speed,min-1,3000,K005
+Load direction,°,,K005
+Comment,,,K005

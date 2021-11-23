@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KA06
+"Bearing designation(dimension series, bore code)",,6203,KA06
+Suffix,,,KA06
+Diameter of inner raceway,mm,n/a,KA06
+Diameter of outer raceway,mm,n/a,KA06
+Pitch circle diameter,mm,29.05,KA06
+Number of rolling elements,pc.,8,KA06
+Rolling element diameter,mm,6.75,KA06
+Length of rolling element,mm,6.75,KA06
+Nominal pressure angle,°,0,KA06
+Static load rating,N,n/a,KA06
+Dynamic load rating,N,n/a,KA06
+Speed limit,min-1,n/a,KA06
+Manufacturer,,IBU,KA06
+Bearing code,,KA06,KA06
+Sample number,,6203-A6,KA06
+Installation site,,,KA06
+Installation type (system type),,,KA06
+Operator,,"Chair of design and Drive Technology, Paderborn",KA06
+Number of load cycles,cycles,"artificial damage, bearing was not operated",KA06
+Lifetime,h:min,,KA06
+Load,N,,KA06
+Dynamic equivalent load,N,,KA06
+Rotational speed,min-1,,KA06
+Load direction,°,,KA06
+Comment,,,KA06

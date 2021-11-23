@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KB27
+"Bearing designation(dimension series, bore code)",,6203,KB27
+Suffix,,,KB27
+Diameter of inner raceway,mm,24.00,KB27
+Diameter of outer raceway,mm,33.10,KB27
+Pitch circle diameter,mm,28.55,KB27
+Number of rolling elements,pc.,8,KB27
+Rolling element diameter,mm,6.75,KB27
+Length of rolling element,mm,6.75,KB27
+Nominal pressure angle,°,0,KB27
+Static load rating,N,4750,KB27
+Dynamic load rating,N,9500,KB27
+Speed limit,min-1,12000,KB27
+Manufacturer,,FAG,KB27
+Bearing code,,KB27,KB27
+Sample number,,11-01,KB27
+Installation site,,01,KB27
+Installation type (system type),,bearing damage test bench (KAt),KB27
+Operator,,"Chair of design and Drive Technology, Paderborn",KB27
+Number of load cycles,cycles,3683000,KB27
+Lifetime,h:min,21:01,KB27
+Load,N,3800,KB27
+Dynamic equivalent load,N,,KB27
+Rotational speed,min-1,2900,KB27
+Load direction,°,0,KB27
+Comment,,n/a,KB27

@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI14
+"Bearing designation(dimension series, bore code)",,6203,KI14
+Suffix,,,KI14
+Diameter of inner raceway,mm,n/a,KI14
+Diameter of outer raceway,mm,n/a,KI14
+Pitch circle diameter,mm,29.05,KI14
+Number of rolling elements,pc.,8,KI14
+Rolling element diameter,mm,6.75,KI14
+Length of rolling element,mm,6.75,KI14
+Nominal pressure angle,°,0,KI14
+Static load rating,N,n/a,KI14
+Dynamic load rating,N,n/a,KI14
+Speed limit,min-1,n/a,KI14
+Manufacturer,,MTK,KI14
+Bearing code,,KI14,KI14
+Sample number,,11-02,KI14
+Installation site,,02,KI14
+Installation type (system type),,bearing damage test bench (KAt),KI14
+Operator,,"Chair of design and Drive Technology, Paderborn",KI14
+Number of load cycles,cycles,3683000,KI14
+Lifetime,h:min,21:01,KI14
+Load,N,3800,KI14
+Dynamic equivalent load,N,,KI14
+Rotational speed,min-1,2900,KI14
+Load direction,°,0,KI14
+Comment,,n/a,KI14

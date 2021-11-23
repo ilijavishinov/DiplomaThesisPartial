@@ -1,0 +1,5 @@
+Rotational speed [rpm],Load Torque [Nm],Radial Force [N],Setting Name
+1500,0.7,1000,N15_M07_F10
+900,0.7,1000,N09_M07_F10
+1500,0.1,1000,N15_M01_F10
+1500,0.7,400,N15_M07_F04

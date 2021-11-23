@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI16
+"Bearing designation(dimension series, bore code)",,6203,KI16
+Suffix,,,KI16
+Diameter of inner raceway,mm,24.00,KI16
+Diameter of outer raceway,mm,33.10,KI16
+Pitch circle diameter,mm,28.55,KI16
+Number of rolling elements,pc.,8,KI16
+Rolling element diameter,mm,6.75,KI16
+Length of rolling element,mm,6.75,KI16
+Nominal pressure angle,°,0,KI16
+Static load rating,N,4750,KI16
+Dynamic load rating,N,9500,KI16
+Speed limit,min-1,12000,KI16
+Manufacturer,,FAG,KI16
+Bearing code,,KI16,KI16
+Sample number,,14-04,KI16
+Installation site,,04,KI16
+Installation type (system type),,bearing damage test bench (KAt),KI16
+Operator,,"Chair of design and Drive Technology, Paderborn",KI16
+Number of load cycles,cycles,609000,KI16
+Lifetime,h:min,3:01,KI16
+Load,N,3800,KI16
+Dynamic equivalent load,N,,KI16
+Rotational speed,min-1,2900,KI16
+Load direction,°,0,KI16
+Comment,,n/a,KI16

@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KB24
+"Bearing designation(dimension series, bore code)",,6203,KB24
+Suffix,,,KB24
+Diameter of inner raceway,mm,24,KB24
+Diameter of outer raceway,mm,33.1,KB24
+Pitch circle diameter,mm,28.55,KB24
+Number of rolling elements,pc.,8,KB24
+Rolling element diameter,mm,6.75,KB24
+Length of rolling element,mm,6.75,KB24
+Nominal pressure angle,°,0,KB24
+Static load rating,N,4750,KB24
+Dynamic load rating,N,9500,KB24
+Speed limit,min-1,12000,KB24
+Manufacturer,,FAG,KB24
+Bearing code,,KB24,KB24
+Sample number,,12-01,KB24
+Installation site,,01,KB24
+Installation type (system type),,bearing damage test bench (KAt),KB24
+Operator,,"Chair of design and Drive Technology, Paderborn",KB24
+Number of load cycles,cycles,2769500,KB24
+Lifetime,h:min,15:01,KB24
+Load,N,3800,KB24
+Dynamic equivalent load,N,,KB24
+Rotational speed,min-1,2900,KB24
+Load direction,°,0,KB24
+Comment,,n/a,KB24

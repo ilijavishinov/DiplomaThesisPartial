@@ -1,0 +1,15 @@
+Bearing Code,Damage,Bearing element,Combination,Arrangement, Extent of damage,Characteristic of damage
+KA04,fatigue: pitting,OR,S,no repetition,1,single point
+KA15,Plastic deform.: Indentations,OR,S,no repetition,1,single point
+KA16,fatigue: pitting,OR,R,random,2,single point
+KA22,fatigue: pitting,OR,S,no repetition,1,single point
+KA30,Plastic deform.: Indentations,OR,R,random,1,distributed
+KB23,fatigue: pitting,IR (+OR),M,random,2,single point
+KB24,fatigue: pitting,IR (+OR),M,no repetition,3,distributed
+KB27,Plastic deform.: Indentations,"OR +IR",M,random,1,distributed
+KI04,fatigue: pitting,IR,M,no repetition,1,single point
+KI14,fatigue: pitting,IR,M,no repetition,1,single point
+KI16,fatigue: pitting,IR,S,no repetition,3,single point
+KI17,fatigue: pitting,IR,R,random,1,single point
+KI18,fatigue: pitting,IR,S,no repetition,2,single point
+KI21,fatigue: pitting,IR,S,no repetition,1,single point

@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KA30
+"Bearing designation(dimension series, bore code)",,6203,KA30
+Suffix,,,KA30
+Diameter of inner raceway,mm,n/a,KA30
+Diameter of outer raceway,mm,n/a,KA30
+Pitch circle diameter,mm,29.05,KA30
+Number of rolling elements,pc.,8,KA30
+Rolling element diameter,mm,6.75,KA30
+Length of rolling element,mm,6.75,KA30
+Nominal pressure angle,°,0,KA30
+Static load rating,N,n/a,KA30
+Dynamic load rating,N,n/a,KA30
+Speed limit,min-1,n/a,KA30
+Manufacturer,,MTK,KA30
+Bearing code,,KA30,KA30
+Sample number,,15-01,KA30
+Installation site,,01,KA30
+Installation type (system type),,bearing damage test bench (KAt),KA30
+Operator,,"Chair of design and Drive Technology, Paderborn",KA30
+Number of load cycles,cycles,3746800,KA30
+Lifetime,h:min,21:01,KA30
+Load,N,,KA30
+Dynamic equivalent load,N,3800,KA30
+Rotational speed,min-1,2900,KA30
+Load direction,°,0,KA30
+Comment,,n/a,KA30

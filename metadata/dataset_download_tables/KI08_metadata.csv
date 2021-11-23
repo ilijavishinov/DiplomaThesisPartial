@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI08
+"Bearing designation(dimension series, bore code)",,6203,KI08
+Suffix,,,KI08
+Diameter of inner raceway,mm,n/a,KI08
+Diameter of outer raceway,mm,n/a,KI08
+Pitch circle diameter,mm,29.05,KI08
+Number of rolling elements,pc.,8,KI08
+Rolling element diameter,mm,6.75,KI08
+Length of rolling element,mm,6.75,KI08
+Nominal pressure angle,°,0,KI08
+Static load rating,N,n/a,KI08
+Dynamic load rating,N,n/a,KI08
+Speed limit,min-1,n/a,KI08
+Manufacturer,,IBU,KI08
+Bearing code,,KI08,KI08
+Sample number,,6203-I8,KI08
+Installation site,,,KI08
+Installation type (system type),,,KI08
+Operator,,"Chair of design and Drive Technology, Paderborn",KI08
+Number of load cycles,cycles,"artificial damage, bearing was not operated",KI08
+Lifetime,h:min,,KI08
+Load,N,,KI08
+Dynamic equivalent load,N,,KI08
+Rotational speed,min-1,,KI08
+Load direction,°,,KI08
+Comment,,,KI08

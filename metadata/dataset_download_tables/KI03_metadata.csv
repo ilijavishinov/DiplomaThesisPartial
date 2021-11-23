@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI03
+"Bearing designation(dimension series, bore code)",,6203,KI03
+Suffix,,,KI03
+Diameter of inner raceway,mm,n/a,KI03
+Diameter of outer raceway,mm,n/a,KI03
+Number of rolling elements,pc.,8,KI03
+Rolling element diameter,mm,6.75,KI03
+Length of rolling element,mm,6.75,KI03
+Nominal pressure angle,°,0,KI03
+Static load rating,N,n/a,KI03
+Dynamic load rating,N,n/a,KI03
+Speed limit,"-1min",n/a,KI03
+Manufacturer,,MTK,KI03
+Bearing code,,KI03,KI03
+Pitch circle diameter,mm,29.05,KI03
+Sample number,,6203-I3,KI03
+Installation site,,,KI03
+Installation type (system type),,,KI03
+Operator,,"Chair of design and Drive Technology, Paderborn",KI03
+Number of load cycles,cycles,"artificial damage, bearing was not operated",KI03
+Lifetime,h:min,,KI03
+Load,N,,KI03
+Dynamic equivalent load,N,,KI03
+Rotational speed,"-1min",,KI03
+Load direction,°,,KI03
+Comment,,,KI03

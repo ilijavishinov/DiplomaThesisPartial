@@ -1,0 +1,13 @@
+Bearing Code,Component,Level of damage,Damage method
+KA01,OR,1,EDM
+KA03,OR,2,electric engraver
+KA05,OR,1,electric engraver
+KA06,OR,2,electric engraver
+KA07,OR,1,drilling
+KA08,OR,2,drilling
+KA09,OR,2,drilling
+KI01,IR,1,EDM
+KI03,IR,1,electric engraver
+KI05,IR,1,electric engraver
+KI07,IR,2,electric engraver
+KI08,IR,2,electric engraver

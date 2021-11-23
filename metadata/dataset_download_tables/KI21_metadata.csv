@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI21
+"Bearing designation(dimension series, bore code)",,6203,KI21
+Suffix,,,KI21
+Diameter of inner raceway,mm,24.00,KI21
+Diameter of outer raceway,mm,33.10,KI21
+Pitch circle diameter,mm,28.55,KI21
+Number of rolling elements,pc.,8,KI21
+Rolling element diameter,mm,6.75,KI21
+Length of rolling element,mm,6.75,KI21
+Nominal pressure angle,°,0,KI21
+Static load rating,N,4750,KI21
+Dynamic load rating,N,9500,KI21
+Speed limit,min-1,12000,KI21
+Manufacturer,,FAG,KI21
+Bearing code,,KI21,KI21
+Sample number,,18-01,KI21
+Installation site,,01,KI21
+Installation type (system type),,bearing damage test bench (KAt),KI21
+Operator,,"Chair of design and Drive Technology, Paderborn",KI21
+Number of load cycles,cycles,3610500,KI21
+Lifetime,h:min,20:01,KI21
+Load,N,,KI21
+Dynamic equivalent load,N,3220,KI21
+Rotational speed,min-1,2900,KI21
+Load direction,°,0,KI21
+Comment,,n/a,KI21

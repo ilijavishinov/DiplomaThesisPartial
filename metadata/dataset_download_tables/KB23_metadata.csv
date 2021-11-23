@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KB23
+"Bearing designation(dimension series, bore code)",,6203,KB23
+Suffix,,,KB23
+Diameter of inner raceway,mm,n/a,KB23
+Diameter of outer raceway,mm,n/a,KB23
+Pitch circle diameter,mm,29.05,KB23
+Number of rolling elements,pc.,8,KB23
+Rolling element diameter,mm,6.75,KB23
+Length of rolling element,mm,6.75,KB23
+Nominal pressure angle,°,0,KB23
+Static load rating,N,n/a,KB23
+Dynamic load rating,N,n/a,KB23
+Speed limit,min-1,n/a,KB23
+Manufacturer,,MTK,KB23
+Bearing code,,KB23,KB23
+Sample number,,11-04,KB23
+Installation site,,04,KB23
+Installation type (system type),,bearing damage test bench (KAt),KB23
+Operator,,"Chair of design and Drive Technology, Paderborn",KB23
+Number of load cycles,cycles,3683000,KB23
+Lifetime,h:min,21:01,KB23
+Load,N,3800,KB23
+Dynamic equivalent load,N,,KB23
+Rotational speed,min-1,2900,KB23
+Load direction,°,0,KB23
+Comment,,n/a,KB23

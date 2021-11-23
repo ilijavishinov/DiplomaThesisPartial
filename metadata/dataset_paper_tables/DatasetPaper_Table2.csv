@@ -1,0 +1,12 @@
+,Damage level,Percentage,Limits for bearing
+0,Damage,,Limits for bearing
+1,damage symptoms. This is important for real damages,percentage,
+2,level,,6203
+3,which are not plain single point damages. It is described by,values,
+4,the following three options: 1,0-2 %,≤ 2 mm
+5,2,2-5 %,>2 mm
+6, Single damage: One single component of the rolling,,
+7,3,5-15 %,>4.5 mm
+8,"bearing is affected by a single damage, for example a",,
+9,>13.5 mm single pitting on the inner ring. 4,15-35 %,
+10,5,>35%,>31.5 mm

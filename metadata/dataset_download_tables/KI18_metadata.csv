@@ -1,0 +1,27 @@
+Description,Unit,Value,Bearing Code
+Bearing Type,,deep groove ball bearing,KI18
+"Bearing designation(dimension series, bore code)",,6203,KI18
+Suffix,,,KI18
+Diameter of inner raceway,mm,n/a,KI18
+Diameter of outer raceway,mm,n/a,KI18
+Number of rolling elements,pc.,8,KI18
+Rolling element diameter,mm,6.75,KI18
+Length of rolling element,mm,6.75,KI18
+Nominal pressure angle,°,0,KI18
+Static load rating,N,n/a,KI18
+Dynamic load rating,N,n/a,KI18
+Speed limit,"-1min",n/a,KI18
+Manufacturer,,MTK,KI18
+Bearing code,,KI18,KI18
+Pitch circle diameter,mm,29.05,KI18
+Sample number,,16-04,KI18
+Installation site,,04,KI18
+Installation type (system type),,bearing damage test bench (KAt),KI18
+Operator,,"Chair of design and Drive Technology, Paderborn",KI18
+Number of load cycles,cycles,1276000,KI18
+Lifetime,h:min,7:01,KI18
+Load,N,3800,KI18
+Dynamic equivalent load,N,,KI18
+Rotational speed,"-1min",2900,KI18
+Load direction,°,0,KI18
+Comment,,n/a,KI18
