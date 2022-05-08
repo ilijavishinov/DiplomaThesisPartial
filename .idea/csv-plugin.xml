@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\metadata\dataset_download_tables\K001_metadata.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\metadata\dataset_paper_tables\DatasetPaper_Table2.csv">
           <value>
             <Attribute>
